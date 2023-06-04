@@ -1,0 +1,53 @@
+div {
+    position: relative;
+    float: left;
+}
+
+.div_style div {
+    border: 6px solid green;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    float: left;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#fig_1 {
+    border-radius: 6px;
+}
+
+#fig_2 {
+    border-radius: 10px;
+}
+
+#fig_3 {
+    border-radius: 25px;
+}
+
+#fig_4 {
+    border-radius: 15px;
+}
+
+#fig_5 {
+    border-radius: 3px;
+}
+
+#fig_6 {
+    border-radius: 28px;
+}
+
+#fig_7 {
+    border-radius: 50%;
+}
+
+#fig_8 {
+    border-radius: 5px;
+}
+
+#fig_9 {
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 47px;
+    border-top-right-radius: 20px;
+}

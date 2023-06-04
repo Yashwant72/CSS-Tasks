@@ -1,0 +1,19 @@
+#outer {
+    padding: 30px;
+    padding-left: 45px;
+    width: 250px;
+    height: 112px;
+    margin: 40px;
+    border: 2px solid black;
+}
+
+#outer div {
+    background-color: yellow;
+    width: 280px;
+    padding-bottom: 0px;
+    height: 95px;
+}
+
+pre {
+    font-size: large;
+}

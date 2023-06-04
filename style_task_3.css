@@ -1,0 +1,13 @@
+*{
+    font-size: 30px;
+}
+
+.outer{
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+.inner{
+    list-style-type: circle;
+    list-style-position: inside;
+}

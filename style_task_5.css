@@ -1,0 +1,29 @@
+li a {
+    text-decoration: none;
+}
+
+#nav_hor {
+    border: 2px solid black;
+    width: 650px;
+    height: 75px;
+    padding: 10px;
+}
+
+#nav_hor li {
+    display: inline;
+    padding: 20px;
+    font-size: 30px;
+    background-color: skyblue;
+    width: 80px;
+    border-right: 2px solid purple;
+    position: relative;
+    float: left;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+h3{
+    padding-left: 20px;
+}

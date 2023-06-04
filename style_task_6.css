@@ -1,0 +1,9 @@
+th {
+    background-color: lime;
+    text-align: left;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
